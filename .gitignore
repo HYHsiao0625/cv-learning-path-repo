@@ -1,0 +1,33 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python virtual environments
+venv/
+.env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 資料集與模型檔案
+01-digit-recognizer/data/
+02-intel-image-classification/seg_train/
+02-intel-image-classification/seg_test/
+02-intel-image-classification/seg_pred/
+03*/data/
+03*/train/
+03*/test/
+03*/valid/
+04-fruit-detection/train/
+04-fruit-detection/test/
+04-fruit-detection/valid/
+
+# 其他常見暫存檔
+*.log
+*.tmp
+*.bak
+
+# VS Code 設定檔
+.vscode/
