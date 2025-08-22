@@ -23,7 +23,9 @@ __pycache__/
 04-fruit-detection/train/
 04-fruit-detection/test/
 04-fruit-detection/valid/
-
+05-tgs-salt-identification/test/
+05-tgs-salt-identification/train/
+06-camvid-segmentation/camvid/
 # 其他常見暫存檔
 *.log
 *.tmp
