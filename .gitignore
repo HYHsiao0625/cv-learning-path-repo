@@ -27,6 +27,8 @@ __pycache__/
 05-tgs-salt-identification/train/
 06-camvid-segmentation/camvid/
 07-instance-segmentation-coco/coco2017/
+08-object-tracking-yolov8-deepsort/videos/
+08-object-tracking-yolov8-deepsort/yolov8n.pt
 
 # 其他常見暫存檔
 *.log
