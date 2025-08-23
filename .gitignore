@@ -26,6 +26,8 @@ __pycache__/
 05-tgs-salt-identification/test/
 05-tgs-salt-identification/train/
 06-camvid-segmentation/camvid/
+07-instance-segmentation-coco/coco2017/
+
 # 其他常見暫存檔
 *.log
 *.tmp
